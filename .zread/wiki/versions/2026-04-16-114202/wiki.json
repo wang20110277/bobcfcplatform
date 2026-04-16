@@ -1,0 +1,197 @@
+{
+  "id": "2026-04-16-114202",
+  "generated_at": "2026-04-16T03:42:02.528436Z",
+  "language": "zh",
+  "pages": [
+    {
+      "slug": "1-xiang-mu-gai-shu",
+      "title": "项目概述",
+      "file": "1-xiang-mu-gai-shu.md",
+      "section": "入门指南",
+      "level": "Beginner"
+    },
+    {
+      "slug": "2-kuai-su-qi-dong",
+      "title": "快速启动",
+      "file": "2-kuai-su-qi-dong.md",
+      "section": "入门指南",
+      "level": "Beginner"
+    },
+    {
+      "slug": "3-hou-duan-huan-jing-bian-liang-pei-zhi",
+      "title": "后端环境变量配置",
+      "file": "3-hou-duan-huan-jing-bian-liang-pei-zhi.md",
+      "section": "入门指南",
+      "group": "环境配置",
+      "level": "Beginner"
+    },
+    {
+      "slug": "4-qian-duan-huan-jing-bian-liang-pei-zhi",
+      "title": "前端环境变量配置",
+      "file": "4-qian-duan-huan-jing-bian-liang-pei-zhi.md",
+      "section": "入门指南",
+      "group": "环境配置",
+      "level": "Beginner"
+    },
+    {
+      "slug": "5-ben-di-kai-fa-mo-shi",
+      "title": "本地开发模式",
+      "file": "5-ben-di-kai-fa-mo-shi.md",
+      "section": "入门指南",
+      "group": "运行与部署",
+      "level": "Beginner"
+    },
+    {
+      "slug": "6-docker-compose-bu-shu",
+      "title": "Docker Compose 部署",
+      "file": "6-docker-compose-bu-shu.md",
+      "section": "入门指南",
+      "group": "运行与部署",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "7-zheng-ti-jia-gou-gai-lan",
+      "title": "整体架构概览",
+      "file": "7-zheng-ti-jia-gou-gai-lan.md",
+      "section": "深度解析",
+      "group": "架构设计",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "8-hou-duan-ji-zhu-jia-gou",
+      "title": "后端技术架构",
+      "file": "8-hou-duan-ji-zhu-jia-gou.md",
+      "section": "深度解析",
+      "group": "架构设计",
+      "level": "Advanced"
+    },
+    {
+      "slug": "9-qian-duan-ji-zhu-jia-gou",
+      "title": "前端技术架构",
+      "file": "9-qian-duan-ji-zhu-jia-gou.md",
+      "section": "深度解析",
+      "group": "架构设计",
+      "level": "Advanced"
+    },
+    {
+      "slug": "10-shu-ju-ku-mo-xing-she-ji",
+      "title": "数据库模型设计",
+      "file": "10-shu-ju-ku-mo-xing-she-ji.md",
+      "section": "深度解析",
+      "group": "数据层",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "11-shu-ju-qian-yi-yu-chu-shi-hua",
+      "title": "数据迁移与初始化",
+      "file": "11-shu-ju-qian-yi-yu-chu-shi-hua.md",
+      "section": "深度解析",
+      "group": "数据层",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "12-huan-cun-fu-wu-she-ji",
+      "title": "缓存服务设计",
+      "file": "12-huan-cun-fu-wu-she-ji.md",
+      "section": "深度解析",
+      "group": "数据层",
+      "level": "Advanced"
+    },
+    {
+      "slug": "13-liao-tian-fu-wu-shi-xian",
+      "title": "聊天服务实现",
+      "file": "13-liao-tian-fu-wu-shi-xian.md",
+      "section": "深度解析",
+      "group": "核心服务",
+      "level": "Advanced"
+    },
+    {
+      "slug": "14-zhi-pin-sheng-cheng-fu-wu",
+      "title": "制品生成服务",
+      "file": "14-zhi-pin-sheng-cheng-fu-wu.md",
+      "section": "深度解析",
+      "group": "核心服务",
+      "level": "Advanced"
+    },
+    {
+      "slug": "15-dui-xiang-cun-chu-fu-wu",
+      "title": "对象存储服务",
+      "file": "15-dui-xiang-cun-chu-fu-wu.md",
+      "section": "深度解析",
+      "group": "核心服务",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "16-xiao-xi-dui-lie-ji-cheng",
+      "title": "消息队列集成",
+      "file": "16-xiao-xi-dui-lie-ji-cheng.md",
+      "section": "深度解析",
+      "group": "核心服务",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "17-api-duan-dian-can-kao",
+      "title": "API 端点参考",
+      "file": "17-api-duan-dian-can-kao.md",
+      "section": "深度解析",
+      "group": "API 与认证",
+      "level": "Advanced"
+    },
+    {
+      "slug": "18-oidc-ren-zheng-liu-cheng",
+      "title": "OIDC 认证流程",
+      "file": "18-oidc-ren-zheng-liu-cheng.md",
+      "section": "深度解析",
+      "group": "API 与认证",
+      "level": "Advanced"
+    },
+    {
+      "slug": "19-jwt-hui-hua-guan-li",
+      "title": "JWT 会话管理",
+      "file": "19-jwt-hui-hua-guan-li.md",
+      "section": "深度解析",
+      "group": "API 与认证",
+      "level": "Advanced"
+    },
+    {
+      "slug": "20-websocket-shi-shi-tong-xin",
+      "title": "WebSocket 实时通信",
+      "file": "20-websocket-shi-shi-tong-xin.md",
+      "section": "深度解析",
+      "group": "API 与认证",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "21-lu-you-yu-dao-hang",
+      "title": "路由与导航",
+      "file": "21-lu-you-yu-dao-hang.md",
+      "section": "深度解析",
+      "group": "前端组件",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "22-jiao-se-quan-xian-kong-zhi",
+      "title": "角色权限控制",
+      "file": "22-jiao-se-quan-xian-kong-zhi.md",
+      "section": "深度解析",
+      "group": "前端组件",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "23-zhu-ti-xi-tong",
+      "title": "主题系统",
+      "file": "23-zhu-ti-xi-tong.md",
+      "section": "深度解析",
+      "group": "前端组件",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "24-guo-ji-hua-zhi-chi",
+      "title": "国际化支持",
+      "file": "24-guo-ji-hua-zhi-chi.md",
+      "section": "深度解析",
+      "group": "前端组件",
+      "level": "Beginner"
+    }
+  ]
+}
