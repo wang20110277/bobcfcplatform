@@ -1,0 +1,6 @@
+{
+  "name": "AI Agent Collaboration Platform",
+  "description": "A comprehensive AI platform for managing Agents and Skills, featuring multi-turn chat, artifact generation, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

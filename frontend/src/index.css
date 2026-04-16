@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  
+  --color-primary: var(--primary);
+  --color-accent: var(--accent);
+  --color-sidebar: var(--sidebar);
+  --color-border: var(--border);
+  --color-text-main: var(--text-main);
+  --color-text-muted: var(--text-muted);
+  --color-bg-canvas: var(--bg-canvas);
+  --color-artifact-bg: var(--artifact-bg);
+}
+
+@layer base {
+  :root {
+    --primary: #0F172A;
+    --accent: #2563EB;
+    --sidebar: #F8FAFC;
+    --border: #E2E8F0;
+    --text-main: #1E293B;
+    --text-muted: #64748B;
+    --bg-canvas: #FFFFFF;
+    --artifact-bg: #F1F5F9;
+  }
+
+  [data-theme='nexus'] {
+    --primary: #064E3B;
+    --accent: #10B981;
+    --sidebar: #F0FDF4;
+    --border: #D1FAE5;
+    --text-main: #064E3B;
+    --text-muted: #34D399;
+    --bg-canvas: #FFFFFF;
+    --artifact-bg: #ECFDF5;
+  }
+
+  body {
+    @apply font-sans text-text-main bg-white antialiased;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-slate-200 rounded-full hover:bg-slate-300 transition-colors;
+}
+
